@@ -69,8 +69,8 @@ In this competition, I used seven methods to approach the prediction.
 
 ## Data
 
--   All methods can be run directly by using the original data sets. No
-    external data is needed.
+-   All methods can be run directly by using the original data sets at
+    “/Data” folder. No external data is needed.
 
 -   Since different methods may use a different types of data forms,
     such as character to integer, one-hot encoder, or k-mers, thus,
